@@ -21,14 +21,13 @@ Este é um projeto de **Dashboard responsivo** desenvolvido com **HTML5 e CSS3**
 
 ## 📁 Estrutura de arquivos
 
-📦 dashboard/
-├── 📁 imagens/
-│ ├── avatar-trabalho.jpg
-│ └── logo.webp
-├── index.html
-├── style.css
-└── README.md
-
+📦 Dashboard/  
+├── 📁 imagens/  
+│   └── avatar-trabalho.jpg  
+│   └── logo.webp  
+├── 📄 index.html  
+├── 📄 style.css  
+└── 📄 README.md
 
 
 ## 🚀 Como executar
